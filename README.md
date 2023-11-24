@@ -5,6 +5,7 @@ nftGating is a project built using Vite, React.js, and Node.js. It aims to provi
 ### Tutorial Video
 
 [NFT Gating Tutorial (Hindi)](https://youtu.be/0091dAvMo6k?si=MDuLa0cLOFEXdeUk)
+
 [NFT Gating Tutorial (English)](https://youtu.be/GgIODCJGCP4?si=uBn5Qgp8JwYBDKfX)
 
 ## Table of Contents
